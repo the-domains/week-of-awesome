@@ -1,0 +1,28 @@
+name: Week of Awesome
+favicon: null
+layout_spectrum: 0.30281314766034484
+typography_spectrum: 0.49214100977405906
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.7113274286966771
+  lightness: 0.06875509256497025
+  saturation: 0.29980439879000187
+  rhythmicContrast: 0.0713964847382158
+purpose: []
